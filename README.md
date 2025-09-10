@@ -1,3 +1,3 @@
-# Mon portfolio projets Data: 
+# Mon portfolio projets Data:
 
-## [Projet Text Mining: Analyse et prédiction des sentiments de tweets] (https://github.com/gbangout/text-mining-sentiment.git) 
+## [Projet Text Mining: Analyse et prédiction des sentiments de tweets](https://github.com/gbangout/text-mining-sentiment.git)
