@@ -18,9 +18,8 @@ Analyse du catalogue Netflix : nettoyage et enrichissement (PySpark, Pandas), st
 ## [Projet NLP Text Mining: Analyse et prédiction des sentiments de tweets](https://github.com/gbangout/text-mining-sentiment.git)
 Objectif: Outil (modèle) d'analyse permettant de classifier le sentiment des tweets (positif / négatif).
 
-## [Projet ML : Prédiction de souscription bancaire](https://github.com/gbangout-apziva/term-deposit.git)
+## [Projet ML clustering rapport sientifique: Analyse de la tendance de la pollution en Europe] (https://www.eionet.europa.eu/etcs/etc-he/products/etc-he-products/etc-he-reports/etc-he-report-2023-8-long-term-trends-of-air-pollutants-at-european-and-national-level-2005-2021))
+Clustering des tendances à long terme des polluants en Europe
 
 ## [Projet ML : Prédiction de souscription bancaire](https://github.com/gbangout-apziva/term-deposit.git)
 Développement d’un modèle prédictif pour estimer si un client souscrit à un dépôt à terme. Mise en œuvre d’une validation croisée à 5 plis pour évaluer la robustesse du modèle et optimisation afin d’atteindre un score moyen de performance supérieur à 81 %.
-
-## 
