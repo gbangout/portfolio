@@ -13,7 +13,14 @@ Analyse du catalogue Netflix : nettoyage et enrichissement (PySpark, Pandas), st
 
 
 
-## Projets Machine Learning
+## Projets Machine Learning (ML, NLP)
 
-## [Projet Text Mining: Analyse et prédiction des sentiments de tweets](https://github.com/gbangout/text-mining-sentiment.git)
+## [Projet NLP Text Mining: Analyse et prédiction des sentiments de tweets](https://github.com/gbangout/text-mining-sentiment.git)
 Objectif: Outil (modèle) d'analyse permettant de classifier le sentiment des tweets (positif / négatif).
+
+[Projet ML : Prédiction de souscription bancaire](https://github.com/gbangout-apziva/term-deposit.git)
+
+## [Projet ML : Prédiction de souscription bancaire](https://github.com/gbangout-apziva/term-deposit.git)
+Développement d’un modèle prédictif pour estimer si un client souscrit à un dépôt à terme. Mise en œuvre d’une validation croisée à 5 plis pour évaluer la robustesse du modèle et optimisation afin d’atteindre un score moyen de performance supérieur à 81 %.
+
+## 
