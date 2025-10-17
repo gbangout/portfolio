@@ -52,7 +52,7 @@ Stack : Python, scikit-learn, visualisation scientifique.
 Résultat : Typologie claire des dynamiques de pollution, facilitant des décisions ciblées par zone prioritaire.
 
 ## [Projet ML : Prédiction de souscription bancaire](https://github.com/gbangout-apziva/term-deposit.git)
-Besoin métier simulé : Prioriser les clients à fort potentiel de conversion pour une campagne de dépôt à terme.
+Besoin métier : Prioriser les clients à fort potentiel de conversion pour une campagne de dépôt à terme.
 
 Approche : Feature engineering, modèle supervisé avec validation croisée à 5 plis et optimisation.
 
