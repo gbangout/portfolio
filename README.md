@@ -33,7 +33,7 @@ Résultat : Détection anticipée des anomalies et optimisation de la chaîne lo
 ## Projets Machine Learning (ML, NLP)
 
 ## [Projet NLP Text Mining: Analyse et prédiction des sentiments de tweets](https://github.com/gbangout/text-mining-sentiment.git)
-Besoin métier simulé : Comprendre la perception des utilisateurs vis-à-vis d’une marque à partir des tweets.
+Besoin métier : Comprendre la perception des utilisateurs vis-à-vis d’une marque à partir des tweets.
 
 Approche : Préparation et vectorisation des textes, entraînement d’un modèle de classification binaire des sentiments (positif / négatif).
 
