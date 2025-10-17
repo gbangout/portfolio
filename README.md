@@ -37,7 +37,7 @@ Besoin métier simulé : Comprendre la perception des utilisateurs vis-à-vis d�
 
 Approche : Préparation et vectorisation des textes, entraînement d’un modèle de classification binaire des sentiments (positif / négatif).
 
-Stack : Python, NLP, scikit-learn / spaCy.
+Stack : Python, scikit-learn, pandas, nltk, TF-IDF, régression logistique.
 
 Résultat : Modèle de classification des sentiments opérationnel pour analyser en continu la tonalité des retours utilisateurs.
 
