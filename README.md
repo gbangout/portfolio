@@ -12,15 +12,35 @@ Stack : PySpark, Pandas, Spark SQL, PostgreSQL, visualisations type BI.
 Résultat : Identification des segments sous-exploités mais en croissance, catalogue prêt à être branché sur un dashboard ou pipeline produit.
 
 ## [Projet Big Data: Investissement dans Airbnb à Paris](https://github.com/gbangout/projet-big-data-investissement-airbnb.git)
-Analyse des données Airbnb (listings & reviews) pour évaluer les opportunités d’investissement : nettoyage et structuration (Python, PostgreSQL), ingestion automatisée (NiFi), calculs distribués (Spark) et visualisation des indicateurs (prix, disponibilité, attractivité des zones).
+
+Besoin métier simulé : Identifier les zones à fort rendement locatif pour guider une stratégie d’investissement immobilier sur Airbnb.
+
+Approche : Ingestion et nettoyage des listings et avis utilisateurs, structuration des données (PostgreSQL) et automatisation des flux (NiFi), calculs distribués (Spark) et analyse des KPI (prix, taux d’occupation, attractivité zone).
+
+Stack : Python, NiFi, Spark, PostgreSQL, visualisation BI.
+
+Résultat : Mise en place d’une base analytique exploitable permettant de prioriser les quartiers à fort potentiel ROI.
 
 ## [Projet Big Data: Conception d’une solution Big Data pour optimiser la logistique](https://github.com/gbangout/gestion-de-projet-big-data-logistics.git)
-Conception d’une solution Big Data pour optimiser la logistique : ingestion de données IoT et transactions (Kafka/NiFi), stockage distribué (Hadoop), traitement temps réel (Spark), bases NoSQL (MongoDB/Cassandra) et visualisation via dashboards (PowerBI/Tableau/Kibana). Objectifs : optimisation des livraisons, maintenance prédictive et amélioration de la satisfaction client.
+Besoin métier : Améliorer la performance logistique en réduisant les retards de livraison, détectant des pannes et améliorant satisfaction client.
+
+Approche : Conception d’une architecture Big Data temps réel : ingestion IoT + transactions (Kafka/NiFi), stockage distribué (Hadoop), traitement streaming (Spark Streaming), stockage NoSQL et dashboards opérationnels.
+
+Stack : Kafka, NiFi, Hadoop, Spark, MongoDB/Cassandra, PowerBI/Tableau/Kibana.
+
+Résultat : Détection anticipée des anomalies et optimisation de la chaîne logistique — base prête à connecter à des alertes temps réel et dashboards métier.
 
 ## Projets Machine Learning (ML, NLP)
 
 ## [Projet NLP Text Mining: Analyse et prédiction des sentiments de tweets](https://github.com/gbangout/text-mining-sentiment.git)
-Objectif: Outil (modèle) d'analyse permettant de classifier le sentiment des tweets (positif / négatif).
+Besoin métier simulé : Comprendre la perception des utilisateurs vis-à-vis d’une marque à partir des tweets.
+
+Approche : Préparation et vectorisation des textes, entraînement d’un modèle de classification binaire des sentiments (positif / négatif).
+
+Stack : Python, NLP, scikit-learn / spaCy.
+
+Résultat : Modèle de classification des sentiments opérationnel pour analyser en continu la tonalité des retours utilisateurs.
+
 
 ## [Projet ML clustering rapport sientifique: Analyse de la tendance de la pollution en Europe](https://www.eionet.europa.eu/etcs/etc-he/products/etc-he-products/etc-he-reports/etc-he-report-2023-8-long-term-trends-of-air-pollutants-at-european-and-national-level-2005-2021)
 Clustering des tendances à long terme des polluants en Europe
