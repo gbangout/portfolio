@@ -59,3 +59,43 @@ Approche : Feature engineering, modèle supervisé avec validation croisée à 5
 Stack : Python, scikit-learn.
 
 Résultat : Score de performance > 81%, modèle prêt à être intégré dans une campagne marketing ciblée.
+
+
+## Prédiction de prix boursiers & recommandation d’investissement
+Besoin métier simulé : Aider une équipe finance à décider quand investir en automatisant l’analyse des tendances boursières et la prise de décision (Buy / Sell / Hold).
+
+Approche : Construction d’un modèle de prévision des prix (time series / deep learning), puis développement d’un système de recommandation intelligent basé sur les signaux de marché générés.
+
+Stack : Python, LSTM / modèles de séries temporelles, scikit-learn.
+
+Résultat : 90% de précision sur la prédiction de prix et 69% de recommandations d’achat/vente correctes, base exploitable pour un assistant d’aide à la décision financière.
+
+
+## MonReader (Vision par Ordinateur pour la numérisation automatique de documents)
+Besoin utilisateur : Permettre à des personnes malvoyantes, chercheurs ou archivistes de numériser rapidement de gros volumes de documents sans intervention manuelle, en détectant automatiquement les changements de page.
+
+Approche : Constitution d’un dataset vidéo labellisé ("page tournée" / "fixe"), extraction des frames, entraînement d’un modèle CNN pour détecter le moment optimal de capture. Intégration dans un pipeline de traitement automatisé (détection → capture HD → recadrage → redressement → OCR).
+
+Stack : Python, CNN (Computer Vision), traitement d’images, pipeline ML embarqué.
+
+Résultat : Détection fiable des moments de capture, base technologique exploitable pour une solution mobile de scan intelligent, orientée accessibilité et productivité.
+
+## Potential Talents (Matching automatique candidats / postes via NLP)
+Besoin métier : Aider les RH ou équipes Talent Acquisition à identifier rapidement les candidats les plus adaptés à un poste, sans lire manuellement chaque CV/profil.
+
+Approche : Extraction et vectorisation des informations candidats (textes de CV / profils), calcul de similarité NLP avec les exigences du poste, scoring automatique d’adéquation, avec possibilité d’utiliser le modèle en recommandation interne.
+
+Stack : NLP (TF-IDF / embeddings), Python, scikit-learn, pipeline de classification / ranking.
+
+Résultat : Priorisation automatique des profils les plus pertinents, base exploitable pour un outil de présélection RH assisté par IA.
+
+
+## Prédiction de satisfaction client
+Besoin métier : Identifier automatiquement si un client est satisfait ou non en fonction de ses réponses à un questionnaire, pour anticiper actions correctives ou fidélisation.
+
+Approche : Exploration des données → feature selection et tuning d’hyperparamètres pour éviter le surapprentissage → entraînement de modèles de classification (Random Forest et XGBoost) → sélection du modèle optimal.
+
+Stack : Python, scikit-learn, Random Forest, XGBoost, feature engineering.
+
+Résultat : Modèle Random Forest retenu avec F1-score 79% et accuracy test 69%, exploitable pour monitorer la satisfaction client et guider les actions commerciales.
+
