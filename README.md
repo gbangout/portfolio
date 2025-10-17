@@ -4,9 +4,13 @@
 
 ## [Projet Big Data: Netflix Analytics](https://github.com/gbangout/projet-big-data-netflix-analytics.git)
 Besoin métier: Aider l’équipe produit à identifier les genres et zones géographiques à fort potentiel en analysant le catalogue existant pour orienter les décisions de contenu.
+
 Approche : Cadrage des indicateurs utiles, ingestion et nettoyage des données à l’échelle (PySpark), enrichissement et structuration en base analytique (PostgreSQL), calculs distribués (Spark SQL) puis restitution visuelle orientée décision.
+
 Stack : PySpark, Pandas, Spark SQL, PostgreSQL, visualisations type BI.
+
 Résultat : Identification des segments sous-exploités mais en croissance, catalogue prêt à être branché sur un dashboard ou pipeline produit.
+
 Analyse du catalogue Netflix : nettoyage et enrichissement (PySpark, Pandas), stockage en PostgreSQL, calculs distribués et agrégations (Spark SQL), visualisations des tendances (genres, pays, ratings, évolution temporelle).
 
 ## [Projet Big Data: Investissement dans Airbnb à Paris](https://github.com/gbangout/projet-big-data-investissement-airbnb.git)
