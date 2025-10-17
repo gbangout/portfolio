@@ -43,7 +43,19 @@ Résultat : Modèle de classification des sentiments opérationnel pour analyser
 
 
 ## [Projet ML clustering rapport sientifique: Analyse de la tendance de la pollution en Europe](https://www.eionet.europa.eu/etcs/etc-he/products/etc-he-products/etc-he-reports/etc-he-report-2023-8-long-term-trends-of-air-pollutants-at-european-and-national-level-2005-2021)
-Clustering des tendances à long terme des polluants en Europe
+Besoin métier : Identifier des profils d’évolution de pollution pour orienter les politiques environnementales en France et en Europe.
+
+Approche : Analyse temporelle longue durée des polluants, clustering des trajectoires d’évolution pour regrouper les tendances par zone géographique.
+
+Stack : Python, scikit-learn, visualisation scientifique.
+
+Résultat : Typologie claire des dynamiques de pollution, facilitant des décisions ciblées par zone prioritaire.
 
 ## [Projet ML : Prédiction de souscription bancaire](https://github.com/gbangout-apziva/term-deposit.git)
-Développement d’un modèle prédictif pour estimer si un client souscrit à un dépôt à terme. Mise en œuvre d’une validation croisée à 5 plis pour évaluer la robustesse du modèle et optimisation afin d’atteindre un score moyen de performance supérieur à 81 %.
+Besoin métier simulé : Prioriser les clients à fort potentiel de conversion pour une campagne de dépôt à terme.
+
+Approche : Feature engineering, modèle supervisé avec validation croisée à 5 plis et optimisation.
+
+Stack : Python, scikit-learn.
+
+Résultat : Score de performance > 81%, modèle prêt à être intégré dans une campagne marketing ciblée.
