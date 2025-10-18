@@ -101,7 +101,7 @@ Stack : Python, scikit-learn, Random Forest, XGBoost, feature engineering.
 
 Résultat : Modèle Random Forest retenu avec F1-score 79% et accuracy test 69%, exploitable pour monitorer la satisfaction client et guider les actions commerciales.
 
-## 1.3 Mon positionnement pour créer de la valeur métier par la Data scientist dans la Finance
+## 1.3 Je crée de la valeur métier par la Data scientist dans la Finance 
 Mission : Traduire des besoins métiers (marketing, risque, fraude) en solutions data opérationnelles, explicables et responsables.
 
 Approche : Industrialisation de modèles prédictifs (ML, IA générative), documentation Git, explication aux équipes métiers, animation de la communauté Data et respect de la gouvernance IA.
