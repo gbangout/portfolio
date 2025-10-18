@@ -2,7 +2,7 @@
 
 # 1. Projets Data
 
-## Projets Big Data
+## 1.1 Projets Big Data
 
 ### [Projet Big Data: Netflix Analytics](https://github.com/gbangout/projet-big-data-netflix-analytics.git)
 Besoin métier : Aider l’équipe produit à identifier les genres et zones géographiques à fort potentiel en analysant le catalogue existant pour orienter les décisions de contenu.
@@ -32,7 +32,7 @@ Stack : Kafka, NiFi, Hadoop, Spark, MongoDB/Cassandra, PowerBI/Tableau/Kibana.
 
 Résultat : Détection anticipée des anomalies et optimisation de la chaîne logistique — base prête à connecter à des alertes temps réel et dashboards métier.
 
-## Projets Machine Learning (ML, NLP, Computer Vision, Time Series Forecasting)
+## 1.2 Projets Machine Learning (ML, NLP, Computer Vision, Time Series Forecasting)
 
 ### [Projet NLP Text Mining: Analyse et prédiction des sentiments de tweets](https://github.com/gbangout/text-mining-sentiment.git)
 Besoin métier : Comprendre la perception des utilisateurs vis-à-vis d’une marque à partir des tweets.
