@@ -101,13 +101,23 @@ Stack : Python, scikit-learn, Random Forest, XGBoost, feature engineering.
 
 Résultat : Modèle Random Forest retenu avec F1-score 79% et accuracy test 69%, exploitable pour monitorer la satisfaction client et guider les actions commerciales.
 
-## 1.3 Je crée de la valeur métier par la Data scientist dans la Finance 
+## 1.3 Je crée de la valeur métier par la Data science dans la Finance 
 Mission : Traduire des besoins métiers (marketing, risque, fraude) en solutions data opérationnelles, explicables et responsables.
 
 Approche : Industrialisation de modèles prédictifs (ML, IA générative), documentation Git, explication aux équipes métiers, animation de la communauté Data et respect de la gouvernance IA.
 
-Stack / Outils : Python, SQL, ML/Deep Learning, LLM et RAG, prompt engineering, outils BI.
+Stack / Outils : Python, SQL, ML/Deep Learning, SHAP/LIME, LLM et RAG, prompt engineering, outils BI.
 
 Résultat / Impact : Capacité à produire modèles industrialisables, éthiques et actionnables pour soutenir les décisions métiers et favoriser l’innovation collaborative.
+
+## 1.4 Je crée de la valeur métier par la data analyse dans le cas d' usage de Forecasting & Supply Chain
+
+Mission : Améliorer la précision des prévisions de demande à partir des données logistiques et ventes en identifiant de nouveaux régresseurs à forte valeur métier.
+
+Approche : Analyse statistique avancée des séries temporelles (décomposition, saisonnalité, ARIMA, smoothing), création de features métier, entraînement de modèles LightGBM / PySpark avec suivi et traçabilité via MLflow & Databricks.
+
+Stack : Python, PySpark, LightGBM, MLflow, Databricks, Optuna / Hyperopt, Time Series Forecasting.
+
+Impact : Capacité à industrialiser des pipelines de prévision avec hyper-optimisation, à collaborer avec les data engineers pour la création de pipelines robustes, et à extraire des signaux métier actionnables pour augmenter la fiabilité du forecast.
 
 # 2. [Travaux de recherche scientifique](https://scholar.google.com/citations?hl=en&user=t3vUxwgAAAAJ)
