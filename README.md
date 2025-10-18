@@ -101,3 +101,5 @@ Stack : Python, scikit-learn, Random Forest, XGBoost, feature engineering.
 
 Résultat : Modèle Random Forest retenu avec F1-score 79% et accuracy test 69%, exploitable pour monitorer la satisfaction client et guider les actions commerciales.
 
+
+# 2. [Travaux de recherche scientifique](https://scholar.google.com/citations?hl=en&user=t3vUxwgAAAAJ)
