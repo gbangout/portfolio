@@ -30,7 +30,7 @@ Stack : Kafka, NiFi, Hadoop, Spark, MongoDB/Cassandra, PowerBI/Tableau/Kibana.
 
 Résultat : Détection anticipée des anomalies et optimisation de la chaîne logistique — base prête à connecter à des alertes temps réel et dashboards métier.
 
-## Projets Machine Learning (ML, NLP)
+## Projets Machine Learning (ML, NLP, Computer Vision, Time Series Forecasting)
 
 ## [Projet NLP Text Mining: Analyse et prédiction des sentiments de tweets](https://github.com/gbangout/text-mining-sentiment.git)
 Besoin métier : Comprendre la perception des utilisateurs vis-à-vis d’une marque à partir des tweets.
