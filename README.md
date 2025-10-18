@@ -61,7 +61,7 @@ Stack : Python, scikit-learn.
 Résultat : Score de performance > 81%, modèle prêt à être intégré dans une campagne marketing ciblée.
 
 
-## [Projet ML: Prédiction de prix boursiers & recommandation d’investissement](https://github.com/gbangout-apziva/term-deposit.git)
+## [Projet time series forecasting: Prédiction de prix boursiers & recommandation d’investissement](https://github.com/gbangout-apziva/term-deposit.git)
 Besoin métier simulé : Aider une équipe finance à décider quand investir en automatisant l’analyse des tendances boursières et la prise de décision (Buy / Sell / Hold).
 
 Approche : Construction d’un modèle de prévision des prix (time series / deep learning), puis développement d’un système de recommandation intelligent basé sur les signaux de marché générés.
