@@ -15,7 +15,7 @@ Résultat : Identification des segments sous-exploités mais en croissance, cata
 
 ### [Projet Big Data: Investissement dans Airbnb à Paris](https://github.com/gbangout/projet-big-data-investissement-airbnb.git)
 
-Besoin métier simulé : Identifier les zones à fort rendement locatif pour guider une stratégie d’investissement immobilier sur Airbnb.
+Besoin métier : Identifier les zones à fort rendement locatif pour guider une stratégie d’investissement immobilier sur Airbnb.
 
 Approche : Ingestion et nettoyage des listings et avis utilisateurs, structuration des données (PostgreSQL) et automatisation des flux (NiFi), calculs distribués (Spark) et analyse des KPI (prix, taux d’occupation, attractivité zone).
 
